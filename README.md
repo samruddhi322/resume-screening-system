@@ -1,24 +1,29 @@
-# Intelligent Resume Screening System
+# Resume Screening System
 
-
-## Features
-
-- Resume PDF Parsing
-- TF-IDF Similarity Matching
-- Skill Extraction
-- Missing Skill Analysis
-- Streamlit Dashboard
-- FastAPI Backend
-- Docker Support
-
-## Tech Stack
+Resume Screening System built using:
 
 - Python
-- Streamlit
+- NLP
+- TF-IDF Vectorization
+- Cosine Similarity
 - FastAPI
-- Scikit-learn
-- NLTK
-- Matplotlib
+- Streamlit
 
-# resume-screening-system
+This project analyzes resumes against job descriptions and calculates a match score based on textual similarity and extracted skills.
+
+---
+
+# Features
+
+- Resume PDF Parsing
+- NLP Text Cleaning
+- Stopword Removal
+- Tokenization
+- TF-IDF Vectorization
+- Cosine Similarity Matching
+- Skill Extraction
+- Missing Skills Detection
+- Interactive Streamlit UI
+- FastAPI Backend API
+- Deployment Ready
 
