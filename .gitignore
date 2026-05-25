@@ -16,4 +16,4 @@ temp_resume.pdf
 Thumbs.db
 
 # Sample Resume
-data/sample_resume.pdf
+data/*.pdf
