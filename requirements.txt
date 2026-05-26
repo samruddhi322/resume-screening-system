@@ -1,16 +1,16 @@
-fastapi==0.115.0
-uvicorn==0.30.6
+fastapi
+uvicorn
 
-streamlit==1.39.0
+streamlit
 
-numpy==1.26.4
-pandas==2.2.2
+pandas
+numpy
 
-scikit-learn==1.5.2
+scikit-learn
 
-nltk==3.9.1
-pdfplumber==0.11.4
+nltk
+pdfplumber
 
-matplotlib==3.9.2
+matplotlib
 
-python-multipart==0.0.12
+python-multipart
